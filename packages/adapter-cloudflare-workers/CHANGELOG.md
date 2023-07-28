@@ -1,5 +1,11 @@
 # @sveltejs/adapter-cloudflare-workers
 
+## 1.1.4
+
+### Patch Changes
+
+- fix: mark `cloudflare:` packages as external ([#10404](https://github.com/sveltejs/kit/pull/10404))
+
 ## 1.1.3
 
 ### Patch Changes
